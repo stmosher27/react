@@ -88,6 +88,9 @@
   "devEngines": {
     "node": "8.x || 9.x || 10.x"
   },
+  "dependencies":{
+	  "oracledb":"1.13.1"
+  },
   "jest": {
     "testRegex": "/scripts/jest/dont-run-jest-directly\\.js$"
   },
